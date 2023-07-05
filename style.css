@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+aside {
+    width: 500px;
+    height: 100vh;
+    background-color: #51355A;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+    padding-top: 200px;
+}
+
+.foto-perfil {
+    border: 5px dotted #2A0C4E;
+    border-radius: 100%;
+}
+
+ul li {
+    list-style-type: none;
+    text-align: center;
+    font-size: 2rem;
+}
+
+a {
+    text-decoration: none;
+    color: #FFF;
+}
