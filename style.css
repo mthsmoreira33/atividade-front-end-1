@@ -36,6 +36,11 @@ ul li {
     font-size: 2rem;
 }
 
+.lista-conhecimentos li {
+    display: block;
+    text-align: left;
+}
+
 a {
     text-decoration: none;
     color: #FFF;
