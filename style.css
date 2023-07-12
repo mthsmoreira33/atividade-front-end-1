@@ -68,6 +68,10 @@ main {
     gap: 50px
 }
 
+ul li, ol li {
+    font-size: 1.5rem;
+}
+
 .wrapper {
     display: flex;
     gap: 20px
